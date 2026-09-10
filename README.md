@@ -6,7 +6,7 @@ I am a detail-oriented and analytical **Data Analyst** transitioning from a back
 - 🛠️ **Current Focus:** Building end-to-end Data Analytics projects using Python and SQL.
 - 🎯 **Career Goal:** To leverage my business accounting experience and analytical skills to solve real-world problems.
 - ✉️ **Reach Me At:** thakurshakti574@gmail.com
-- 💼 **Connect on LinkedIn:** shakti-singh-045328163
+- 💼 **Connect on LinkedIn:** ://linkedin.com
 
 ---
 
